@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "900451460916",
+    "project_id": "estadia-f39ad",
+    "storage_bucket": "estadia-f39ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900451460916:android:814d7409eecd137590a761",
+        "android_client_info": {
+          "package_name": "com.example.estadia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900451460916-3m6605lbmdon48lm3p592tk28fjib9ue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estadia",
+            "certificate_hash": "c82be5d1e76a8fbbd7fae6ff984164c55247507d"
+          }
+        },
+        {
+          "client_id": "900451460916-773pamcmgmce0pukj9cdsgqrvcc0tcjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Fb9asHNhyJGJ6xONyrxFj2YXhzoaO9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900451460916-773pamcmgmce0pukj9cdsgqrvcc0tcjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
